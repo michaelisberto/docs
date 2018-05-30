@@ -12,7 +12,7 @@ A [byte](https://simple.wikipedia.org/wiki/Byte) is a group of 8 bits. A bit is 
 
 > Puzzled? Remember that 3 decimal numbers also don't just stand for 3 values between 0 and 9, but 1000 (10<sup>3</sup>) permutations from 0(00) to 999.
 
-Learn more on [How Stuff Works: How Bits and Bytes Work](http://computer.howstuffworks.com/bytes.htm) and the [Arduino Bit Math Tutorial](http://playground.arduino.cc/Code/BitMath) to learn more about it.
+Learn more about [How Bits and Bytes Work](https://www.colocationamerica.com/blog/difference-between-bits-and-bytes) and the [Arduino Bit Math Tutorial](http://playground.arduino.cc/Code/BitMath) to learn more about it.
 
 ## What is a buffer of bytes?
 Think of *buffer* as just another word for an *array*, *list*, whatever resonates with your programming experience. Like a byte is a group of 8 bits, a [buffer](https://en.wikipedia.org/wiki/Data_buffer) is a group of a pre-defined number of bytes. If we have a group of 3 bytes, this could either represent 3 values between 0 and 255, but also one single value between 0 and 16777216 (256<sup>3</sup>).
